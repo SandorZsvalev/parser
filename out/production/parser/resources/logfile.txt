@@ -1,0 +1,12 @@
+127.0.0.1 UserOne 21.04.2022 google.com REQUEST OK
+127.0.0.1 UserFive 22.04.2022 shopping.com REQUEST OK
+127.4.0.1 UserTwo 22.04.2022 yahoo.com RESPONSE FAIL
+127.5.0.2 UserOne 21.04.2022 amazon.com DOWNLOAD OK
+127.0.0.1 UserOne 22.04.2022 weather.com UPLOAD PAUSE
+127.5.0.1 UserOne 21.04.2022 netflix.com REQUEST FAIL
+127.4.0.1 UserTwo 21.04.2022 paypal.com UPLOAD OK
+127.3.0.3 UserThree 23.04.2022 apple.com REQUEST PAUSE
+122.0.4.4 UserFour 24.04.2022 samsung.com RESPONSE FAIL
+122.0.4.4 UserFour 24.04.2022 oracle.com DOWNLOAD OK
+127.0.0.1 UserFive 25.04.2022 youtube.com REQUEST FAIL
+127.0.0.1 UserSix 25.04.2022 youtube.com REQUEST FAIL
